@@ -18,7 +18,8 @@ Thanks.
 
 Actually, It made for a university contest.
 
-So, It is not good.
+I know it is not perfect.
+So, I want you to consider it.
 
 It is use Json with Okhttp3.
 
