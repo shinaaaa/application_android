@@ -6,8 +6,9 @@ So, I think person to first time develop see it.
 It is wrriten in korean.
 
 Thanks.
-
+/n
 ==============================================
+/n
 "Carrer.file" is my fist work in android.
 Actually, It made for a university contest.
 So, It is vary sloppy.
