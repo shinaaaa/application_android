@@ -18,7 +18,7 @@ Thanks.
 
 Actually, It made for a university contest.
 
-So, It is vary sloppy.
+So, It is vary cheesy.
 
 It is use Json with Okhttp3.
 
