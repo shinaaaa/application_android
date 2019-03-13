@@ -1,7 +1,7 @@
 # application_android
 android_practice
 
-#"Okhttp.file"
+"Okhttp.file"
 =============================================
 
 "OkhttpExam.file" is basic code in android.
@@ -12,7 +12,7 @@ It is wrriten in korean.
 
 Thanks.
 
-#"Carrer.file"
+"Carrer.file"
 ==============================================
 "Carrer.file" is my fist work in android.
 
