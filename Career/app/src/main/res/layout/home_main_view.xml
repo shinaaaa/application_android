@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#dee6ed"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/magazine_1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
+                android:layout_margin="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+
+                    <TextView
+                        android:id="@+id/magazine_1_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="첫번째 기사 제목"
+                        android:textSize="20dp" />
+
+
+                        <TextView
+                            android:id="@+id/magazine_1_day"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right"
+                            android:text="기사 날짜" />
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+            //1
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/magazine_2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
+                android:layout_margin="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+
+                    <TextView
+                        android:id="@+id/magazine_2_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="두번째 기사 제목"
+                        android:textSize="20dp" />
+
+
+                        <TextView
+                            android:id="@+id/magazine_2_day"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right"
+                            android:text="기사 날짜" />
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+            //2
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/magazine_3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
+                android:layout_margin="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+
+                    <TextView
+                        android:id="@+id/magazine_3_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="세번째 기사 제목"
+                        android:textSize="20dp" />
+
+
+                        <TextView
+                            android:id="@+id/magazine_3_day"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right"
+                            android:text="기사 날짜" />
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+            //3
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/magazine_4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
+                android:layout_margin="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+
+                    <TextView
+                        android:id="@+id/magazine_4_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="네번째 기사 제목"
+                        android:textSize="20dp" />
+
+
+                        <TextView
+                            android:id="@+id/magazine_4_day"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right"
+                            android:text="기사 날짜" />
+
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+            //4
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/magazine_5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
+                android:layout_margin="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+
+                    <TextView
+                        android:id="@+id/magazine_5_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="다섯번째 기사 제목"
+                        android:textSize="20dp" />
+
+                        <TextView
+                            android:id="@+id/magazine_5_day"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="right"
+                            android:text="기사 날짜" />
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+            //5
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/magazine_6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
+                android:layout_margin="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+
+                    <TextView
+                        android:id="@+id/magazine_6_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="여섯번째 기사 제목"
+                        android:textSize="20dp" />
+
+                    <TextView
+                        android:id="@+id/magazine_6_day"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:text="기사 날짜" />
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+            //6
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/magazine_7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
+                android:layout_margin="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+
+                    <TextView
+                        android:id="@+id/magazine_7_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="일곱번째 기사 제목"
+                        android:textSize="20dp" />
+
+                    <TextView
+                        android:id="@+id/magazine_7_day"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:text="기사 날짜" />
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+            //7
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/magazine_8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
+                android:layout_margin="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+
+                    <TextView
+                        android:id="@+id/magazine_8_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="여덟번째 기사 제목"
+                        android:textSize="20dp" />
+
+
+                    <TextView
+                        android:id="@+id/magazine_8_day"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:text="기사 날짜" />
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+            //8
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/magazine_9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
+                android:layout_margin="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+
+                    <TextView
+                        android:id="@+id/magazine_9_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="아홉번째 기사 제목"
+                        android:textSize="20dp" />
+
+
+                    <TextView
+                        android:id="@+id/magazine_9_day"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:text="기사 날짜" />
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+            //9
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/magazine_10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardCornerRadius="8dp"
+                app:cardUseCompatPadding="true"
+                android:layout_margin="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:padding="8dp">
+
+                    <TextView
+                        android:id="@+id/magazine_10_title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="열번째 기사 제목"
+                        android:textSize="20dp" />
+
+                    <TextView
+                        android:id="@+id/magazine_10_day"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:text="기사 날짜" />
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+            //10
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</LinearLayout>

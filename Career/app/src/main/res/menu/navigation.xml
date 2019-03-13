@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_main_home_nor"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_job"
+        android:icon="@drawable/ic_main_job_nor"
+        android:title="@string/title_job" />
+
+    <item
+        android:id="@+id/navigation_school"
+        android:icon="@drawable/ic_main_school_nor"
+        android:title="@string/title_school" />
+
+    <item
+        android:id="@+id/navigation_major"
+        android:icon="@drawable/ic_main_major_nor"
+        android:title="@string/title_major" />
+
+</menu>

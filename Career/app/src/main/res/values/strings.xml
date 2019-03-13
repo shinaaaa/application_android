@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Career</string>
+    <string name="title_home">Home</string>
+    <string name="title_job">job</string>
+    <string name="title_school">school</string>
+    <string name="title_major">major</string>
+</resources>
