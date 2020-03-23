@@ -11,8 +11,8 @@ It is wrriten in korean.
 
 Thanks.
 
-# Carrer.file
-"Carrer.file" is my fist work in android.
+# Career.file
+"Career.file" is my fist work in android.
 
 Actually, It made for a university contest.
 
